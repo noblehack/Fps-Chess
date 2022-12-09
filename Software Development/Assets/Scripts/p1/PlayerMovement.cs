@@ -44,6 +44,7 @@ public bool canTakeDamage = true;
     void Start()
     {
             player1Body = gameObject.GetComponent<BoxCollider>();
+               Screen.SetResolution(1920, 540, true);
     }
 
     // Update is called once per frame
