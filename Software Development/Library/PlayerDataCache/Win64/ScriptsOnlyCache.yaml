@@ -779,4 +779,5 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/Austin hackenberg/Software Development/Build/Software Development.exe
+  playerPath: C:/Users/Austin hackenberg/Software Dev Project/Software Development/Build/Software
+    Development.exe
