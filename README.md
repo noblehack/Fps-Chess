@@ -16,6 +16,8 @@ POWERUPS:
 TO gain a powerup, a user must shoot THEIR OWN chess pieces. The powerups are corresponded to the particles
 
 SCRIPTS:
+Scripts can be found under Fps-Chess/Software Development/Assets/Scripts/
+
 ChessLogic - Logic for the chess, checks for win conditions and literal chess logis
 Cube - Was created for testing, is not used in game, used for debug
 MouseDrag - Used to control the movement of chess pieces, how the user interacts with the pieces
